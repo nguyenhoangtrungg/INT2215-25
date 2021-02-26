@@ -1,0 +1,18 @@
+1. grade là kiểu int thì lệnh sẽ kiểm tra xem grade có nằm trong khoảng từ 90 tới 100 hay không (bằng 90 hoặc 100 vẫn đúng).
+        Lệnh đúng sẽ là bool isA = (90 <= grade && grade <= 100);
+2. kết quả in ra: 0.
+3. quá bộ nhớ của long.
+4. true.
+5. chương trình sẽ chạy mãi cho tới khi tắt cửa sổ đi.
+6.  -invalid operands of types 'int' and 'const char [6]' to binary 'operator*'|
+    -vẫn chạy chương trình, nhưng in ra 7.90505e-323
+7.  0
+    0.75
+    0.75
+    0.75
+8. error: stray '\222' in program|
+9. error: stray '\222' in program|
+10. error: stray '\222' in program|
+11. thiếu kiểu double cho biểu thức và bỏ dấu ngoặc của 5/9
+    lệnh đúng sẽ là : double C = (double) (F - 32) * 5 / 9;
+12. Here
