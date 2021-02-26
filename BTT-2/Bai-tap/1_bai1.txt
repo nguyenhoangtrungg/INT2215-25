@@ -1,0 +1,4 @@
+1 ; chỗ while
+2 dấu , vòng for
+3 thiếu ngoặc while
+4 lặp vô hạn
